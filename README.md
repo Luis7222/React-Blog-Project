@@ -8,7 +8,7 @@ For this project, I have created a starting codebase for a React front end and w
 
 # Introduction to this Application
 
-This project will focus on building front-end components in React for a simple blogging website. 
+This project will focus on building front-end components in React for a simple blogging website.
 
 A blog post has the following structure:
 
@@ -42,11 +42,11 @@ yarn prettier --write .
 ### Development
 
 ```
-yarn start
+yarn start or npm run start
 ```
 
 ### Testing
 
 ```
-yarn test
+yarn test or npm run test
 ```
